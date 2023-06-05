@@ -8,6 +8,14 @@ search for specific contacts,and view contact details in a dismissible popup.
 Running the app 
 # exp://192.168.240.85:19000
 
+# Build ID
+
+1b3ed313-22e3-4315-b0de-f72d6a97a647
+
+# Project ID
+
+a326880f-dbda-422f-9a05-0ec8bea59e85
+
 # Features
 
 Display the contacts stored on the phone, including names and numbers.
